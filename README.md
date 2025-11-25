@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on **I am currently working on things I don't fully understand yet.**
 - 🌱 I'm currently learning **Machine Learning**
-- 💬 Ask me about **Ask me about tech, ideas, and everything in between.**
+- 💬 Ask me about **Tech, ideas, and everything in between.**
 - 📫 How to reach me: **anubhavjhanwar210@gmail.com**
 - ⚡ Fun fact: **I code, I film, I play - Guitar & Drums**
 
@@ -19,10 +19,10 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="mailto:anubhavjhanwar210@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-<a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://www.instagram.com/anubhav21._?igsh=dHF1emZhYzFyeHNq&utm_source=qr" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="https://github.com/anubhavjhanwar" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="mailto:anubhavjhanwar210@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anubhav21._?igsh=dHF1emZhYzFyeHNq&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://github.com/anubhavjhanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 ---
@@ -47,26 +47,12 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavjhanwar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavjhanwar&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavjhanwar&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anubhavjhanwar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
