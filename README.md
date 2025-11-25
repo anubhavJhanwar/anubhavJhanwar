@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- � I'm currently working on **solving problems that don’t have tutorials.**
+- � IA'm currently working on **I am currently working on things I don't fully understand yet.**
 - 🌱 I'm currently learning **Machine Learning**
-- � Ask me about **Tech, ideas, and everything in between.**
+- � IAsk me about **Tech, ideas, and everything in between.**
 - 📫 How to reach me: **anubhavjhanwar210@gmail.com**
 - ⚡ Fun fact: **I code, I film, I play - Guitar & Drums**
 
@@ -40,10 +40,14 @@
 
 ---
 
-## 📈 Contribution Graph:
+## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavjhanwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhavjhanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
