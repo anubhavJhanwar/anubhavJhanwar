@@ -40,13 +40,9 @@
 
 ---
 
-## 📈 GitHub Contribution Snake:
+## � GitHub CContributions:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anubhavjhanwar/anubhavjhanwar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anubhavjhanwar/anubhavjhanwar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anubhavjhanwar/anubhavjhanwar/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&custom_title=Anubhav's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ---
 
