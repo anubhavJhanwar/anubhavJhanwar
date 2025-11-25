@@ -6,16 +6,15 @@
 
 ## 🚀 About Me
 
-- � IA'm currently working on **I am currently working on things I don't fully understand yet.**
+- � I'm currently working on **solving problems that don’t have tutorials.**
 - 🌱 I'm currently learning **Machine Learning**
-- � IAsk me about **Tech, ideas, and everything in between.**
+- � Ask me about **Tech, ideas, and everything in between.**
 - 📫 How to reach me: **anubhavjhanwar210@gmail.com**
 - ⚡ Fun fact: **I code, I film, I play - Guitar & Drums**
 
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="mailto:anubhavjhanwar210@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anubhav21._?igsh=dHF1emZhYzFyeHNq&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://github.com/anubhavjhanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
