@@ -1,7 +1,5 @@
 # Hi 👋, I'm Anubhav Jhanwar
 
-### 💭 What I believe: *"I believe in building the unseen, to uncover the unknown."*
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anubhavjhanwar&label=Profile%20views&color=0e75b6&style=flat)
@@ -75,19 +73,11 @@
 
 ## 📈 Contribution Graph:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&theme=react-dark" alt="Contribution Graph" />
-</p>
+[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/anubhavjhanwar)
 
 ---
 
-### 💭 What I Believe:
 
-<p align="center">
-  <i>"I believe in building the unseen, to uncover the unknown."</i>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
