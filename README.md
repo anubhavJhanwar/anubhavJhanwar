@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- � IA'm currently working on **I am currently working on things I don't fully understand yet.**
+- � I'm currently working on **solving problems that don’t have tutorials.**
 - 🌱 I'm currently learning **Machine Learning**
-- � IAsk me about **Tech, ideas, and everything in between.**
+- � Ask me about **Tech, ideas, and everything in between.**
 - 📫 How to reach me: **anubhavjhanwar210@gmail.com**
 - ⚡ Fun fact: **I code, I film, I play - Guitar & Drums**
 
@@ -40,15 +40,13 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 GitHub Contribution Snake:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavjhanwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavjhanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anubhavjhanwar/anubhavjhanwar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anubhavjhanwar/anubhavjhanwar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anubhavjhanwar/anubhavjhanwar/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
