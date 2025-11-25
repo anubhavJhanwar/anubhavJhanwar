@@ -47,19 +47,19 @@
 
 ---
 
-
-
-## 🏆 GitHub Trophies:
+## 📊 Most Used Languages:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anubhavjhanwar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph:
 
-[![Anubhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/anubhavjhanwar)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
