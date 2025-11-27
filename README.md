@@ -40,9 +40,20 @@
 
 ---
 
-<h3>📊 Most Used Languages:</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Most Used Languages" />
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📊 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Most Used Languages" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🔥 GitHub Streak</h3>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavjhanwar&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
