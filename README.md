@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- � I'm currently working on **solving problems that don’t have tutorials.**
+- � I'm decoding **concepts that haven't been simplified on the internet.**
 - 🌱 I'm currently learning **Machine Learning**
 - � Ask me about **Tech, ideas, and everything in between.**
 - 📫 How to reach me: **anubhavjhanwar210@gmail.com**
