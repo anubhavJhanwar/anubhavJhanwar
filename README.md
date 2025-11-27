@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anubhav Jhanwar</h1>
-<h3 align="center"> Building things I've never seen, to learn things I've never known </h3>
+<h3 align="center">✨ Building things I've never seen, to learn things I've never known ✨</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 About Me
+<h3>🚀 About Me</h3>
 
 - 🔭 I'm decoding **concepts that haven't been simplified on the internet.**
 - 🌱 I'm currently learning **Machine Learning**
@@ -11,7 +11,7 @@
 - 📫 How to reach me: **anubhavjhanwar210@gmail.com**
 - ⚡ Fun fact: **I code, I film, I play - Guitar & Drums**
 
-## 🌐 Connect with me:
+<h3>🌐 Connect with me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 <a href="https://github.com/anubhavjhanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Languages and Tools:
+<h3>🛠️ Languages and Tools:</h3>
 
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
@@ -40,6 +40,6 @@
 
 ---
 
-## 📊 GitHub Contributions:
+<h3>📊 GitHub Contributions:</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&custom_title=Anubhav's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
