@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-- � I'm decoding **concepts that haven't been simplified on the internet.**
+- 🔭 I'm decoding **concepts that haven't been simplified on the internet.**
 - 🌱 I'm currently learning **Machine Learning**
-- � Ask me about **Tech, ideas, and everything in between.**
+- 💬 Ask me about **Tech, ideas, and everything in between.**
 - 📫 How to reach me: **anubhavjhanwar210@gmail.com**
 - ⚡ Fun fact: **I code, I film, I play - Guitar & Drums**
 
@@ -30,6 +30,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
@@ -39,14 +40,16 @@
 
 ---
 
-## � GitHub Contributions:
+## 📊 GitHub Contributions:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&custom_title=Anubhav's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ---
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,100:2D1B69&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=anubhavjhanwar&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile views" />
 </p>
