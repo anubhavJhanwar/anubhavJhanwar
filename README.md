@@ -44,12 +44,4 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&custom_title=Anubhav's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,100:2D1B69&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhavjhanwar&label=Profile%20Views&color=7F3FBF&style=for-the-badge" alt="Profile views" />
-</p>
