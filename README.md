@@ -5,7 +5,7 @@
 
 <h3>🚀 About Me</h3>
 
-- 🔭 I'm decoding **concepts that haven't been simplified on the internet.**
+- 🛠 I'm building **the tools I wish I had when I started.**
 - 🌱 I'm currently learning **Machine Learning**
 - 💬 Ask me about **Tech, ideas, and everything in between.**
 - 📫 How to reach me: **anubhavjhanwar210@gmail.com**
