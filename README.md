@@ -17,7 +17,7 @@
     <td width="50%" valign="top">
       <h3>🚀 About Me</h3>
       <p>
-        I'm a developer building things I've never seen to learn things I've never known. Focused on creating the tools I wish I had when I started.
+        Building things I've never seen to learn things I've never known. 
       </p>
       <ul>
         <li>🌱 Currently diving deep into <b>Machine Learning</b>.</li>
