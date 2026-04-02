@@ -40,10 +40,10 @@
 
 ### 📊 Coding Stats
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Most Used Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&count_private=true" alt="Most Used Languages" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anubhavjhanwar&theme=radical&utcOffset=5.5" alt="Productive Time" />
