@@ -64,12 +64,12 @@
 ### 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
   <a href="https://www.instagram.com/anubhav21._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" />
   </a>
   <a href="https://github.com/anubhavjhanwar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   </a>
 </p>
