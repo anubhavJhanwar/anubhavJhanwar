@@ -43,10 +43,10 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&count_private=true" alt="Most Used Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&count_private=true" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anubhavjhanwar&theme=radical&utcOffset=5.5" alt="Productive Time" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anubhavjhanwar&theme=radical&utcOffset=5.5" />
       </td>
     </tr>
   </table>
@@ -63,11 +63,13 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a><a href="https://www.instagram.com/anubhav21._" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a><a href="https://github.com/anubhavjhanwar" target="_blank" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/anubhav21._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/anubhavjhanwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
