@@ -63,7 +63,9 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/anubhav21._" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/anubhavjhanwar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
-</p>
+  <span style="white-space: nowrap;">
+    <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/anubhav21._" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+    <a href="https://github.com/anubhavjhanwar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+  </span>
+</p
