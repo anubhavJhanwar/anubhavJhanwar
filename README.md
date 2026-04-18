@@ -63,21 +63,21 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/" target="_blank">
-          <img src="https://cdn.simpleicons.org/linkedin/1E3A8A" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
         </a>
       </td>
       <td align="center">
         <a href="https://www.instagram.com/anubhav21._" target="_blank">
-          <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/anubhavjhanwar" target="_blank">
-          <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" />
+          <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
         </a>
       </td>
     </tr>
