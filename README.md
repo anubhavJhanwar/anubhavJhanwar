@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=200&section=header&text=Anubhav%20Jhanwar&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=200&section=header&text=Anubhav%20Jhanwar&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E3A8A&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Tools+for+Devs;Guitarist+%7C+Drummer+%7C+Film-maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Tools+for+Devs;Guitarist+%7C+Drummer+%7C+Film-maker" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anubhavjhanwar&label=Profile%20views&color=1E3A8A&style=flat-square" alt="anubhavjhanwar" />
+  <img src="https://komarev.com/ghpvc/?username=anubhavjhanwar&label=Profile%20views&color=7B61FF&style=flat-square" alt="anubhavjhanwar" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1E3A8A&text_color=FFFFFF&count_private=true" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7B61FF&text_color=FFFFFF&count_private=true" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anubhavjhanwar&theme=radical&utcOffset=5.5" />
@@ -56,7 +56,7 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=1E3A8A" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=7B61FF" width="100%" />
 </p>
 
 ---
