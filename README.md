@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Tools+for+Devs;Guitarist+%7C+Drummer+%7C+Film-maker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Tools+for+Devs" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
         <li>🌱 Currently diving deep into <b>Machine Learning</b>.</li>
         <li>🛠 Building: <b>Innovative developer tools & utilities</b>.</li>
         <li>💬 Ask me about: <b>Tech, ideas, and everything in between</b>.</li>
-        <li>⚡ Fun Fact: <b>I code, I film, and I play the Guitar & Drums</b>.</li>
+        <li>⚡ Fun Fact: <b>I love building, learning, and experimenting with new technologies</b>.</li>
         <li>📫 Reach me at: <b>anubhavjhanwar210@gmail.com</b></li>
       </ul>
     </td>
