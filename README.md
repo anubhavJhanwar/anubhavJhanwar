@@ -17,16 +17,17 @@
     <td width="50%" valign="top">
       <h3>🚀 About Me</h3>
       <p>
-        Building things I've never seen to learn things I've never known. 
+        Building things I've never seen to learn things I've never known.
       </p>
       <ul>
         <li>🌱 Currently diving deep into <b>Machine Learning</b>.</li>
         <li>🛠 Building: <b>Innovative developer tools & utilities</b>.</li>
         <li>💬 Ask me about: <b>Tech, ideas, and everything in between</b>.</li>
-        <li>⚡ Fun Fact: <b>I love building, learning, and experimenting with new technologies</b>.</li>
+        <li>⚡ Fun Fact: <b>Turning problems into solutions, one idea and one line of code at a time</b>.</li>
         <li>📫 Reach me at: <b>anubhavjhanwar210@gmail.com</b></li>
       </ul>
     </td>
+
     <td width="50%" valign="top">
       <h3>🛠️ Tech Stack</h3>
       <p align="center">
@@ -39,12 +40,14 @@
 ---
 
 ### 📊 Coding Stats
+
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anubhavjhanwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7B61FF&text_color=FFFFFF&count_private=true" />
       </td>
+
       <td width="50%" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anubhavjhanwar&theme=radical&utcOffset=5.5" />
       </td>
@@ -55,6 +58,7 @@
 ---
 
 ### 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavjhanwar&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117&color=7B61FF" width="100%" />
 </p>
@@ -62,6 +66,7 @@
 ---
 
 ### 🤝 Connect with Me
+
 <p align="center">
   <table align="center">
     <tr>
@@ -70,11 +75,13 @@
           <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
         </a>
       </td>
+
       <td align="center">
         <a href="https://www.instagram.com/anubhav21._" target="_blank">
           <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
         </a>
       </td>
+
       <td align="center">
         <a href="https://github.com/anubhavjhanwar" target="_blank">
           <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
