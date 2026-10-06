@@ -65,24 +65,6 @@ I build things I've never seen to learn things I've never known.
 
 ---
 
-<h3 align="center">🎬 Developer Spotlight</h3>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=7cjVj1ZyzyE">
-    <img
-      src="https://img.youtube.com/vi/7cjVj1ZyzyE/maxresdefault.jpg"
-      width="520"
-      alt="Developer Video"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub>▶️ Click to watch</sub>
-</p>
-
----
-
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
