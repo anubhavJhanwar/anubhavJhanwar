@@ -65,6 +65,24 @@ I build things I've never seen to learn things I've never known.
 
 ---
 
+<h3 align="center">🎬 Developer Spotlight</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=7cjVj1ZyzyE">
+    <img
+      src="https://img.youtube.com/vi/7cjVj1ZyzyE/maxresdefault.jpg"
+      width="520"
+      alt="Developer Video"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>▶️ Click to watch</sub>
+</p>
+
+---
+
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
@@ -101,19 +119,35 @@ Machine Learning · AI · Full Stack · Automation
 
 <p>
   <a href="https://www.linkedin.com/in/anubhav-jhanwar-472784310/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="36"
+      alt="LinkedIn"
+    />
   </a>
   &nbsp;
   <a href="mailto:anubhavjhanwar210@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="36" alt="Email">
+    <img
+      src="https://img.icons8.com/color/48/gmail-new.png"
+      width="36"
+      alt="Email"
+    />
   </a>
   &nbsp;
   <a href="https://github.com/anubhavjhanwar">
-    <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      width="36"
+      alt="GitHub"
+    />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/anubhav21._">
-    <img src="https://skillicons.dev/icons?i=instagram" width="36" alt="Instagram">
+    <img
+      src="https://skillicons.dev/icons?i=instagram"
+      width="36"
+      alt="Instagram"
+    />
   </a>
 </p>
 
